@@ -39,3 +39,5 @@ sysinfo.txt
 *.unitypackage
 
 # End of https://www.gitignore.io/api/unity
+*.backup
+thingfornick/Temp/__Backupscenes/0.backup
